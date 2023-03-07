@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>239225875468-lc5qvj3ibngp8lqvabh8l7lpe67sarsc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.239225875468-lc5qvj3ibngp8lqvabh8l7lpe67sarsc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB5HbJJOfEysy3AMwU0_1c2j5guuv4KWtM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>239225875468</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.netNinjaBrewCrew</string>
+	<key>PROJECT_ID</key>
+	<string>net-ninja-brew-crew-988df</string>
+	<key>STORAGE_BUCKET</key>
+	<string>net-ninja-brew-crew-988df.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:239225875468:ios:d794a243987d8ef876d229</string>
+</dict>
+</plist>

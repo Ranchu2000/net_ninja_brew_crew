@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "239225875468",
+    "project_id": "net-ninja-brew-crew-988df",
+    "storage_bucket": "net-ninja-brew-crew-988df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239225875468:android:4d5f54b45f9c1e6e76d229",
+        "android_client_info": {
+          "package_name": "com.example.net_ninja_brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239225875468-fbsbo7ofggq91bmnur14s08g9ok8tslv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqmzM99bXTXIDvEm_KGSoGxwPvkbUrT5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239225875468-fbsbo7ofggq91bmnur14s08g9ok8tslv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239225875468-lc5qvj3ibngp8lqvabh8l7lpe67sarsc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.netNinjaBrewCrew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
